@@ -58,8 +58,8 @@
                 <div class="container">
                     <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                         <ul class="nav navbar-nav menu_nav ml-auto mr-auto">
-                            <li class="nav-item"><a class="nav-link" href="#">Контейнерные перевозки</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">Морские перевозки</a></li>
+                            <li class="nav-item"><a class="nav-link" href="cntr.php">Контейнерные перевозки</a></li>
+                            <li class="nav-item"><a class="nav-link" href="see.php">Морские перевозки</a></li>
                             <li class="nav-item"><a class="nav-link" href="#">Автомобильные перевозки</a></li>
                             <li class="nav-item"><a class="nav-link" href="#">Железнорожные перевозки</a></li>
                             <li class="nav-item"><a class="nav-link" href="#">Сборные грузы</a></li>
